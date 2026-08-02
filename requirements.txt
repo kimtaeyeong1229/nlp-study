@@ -1,5 +1,0 @@
-# 전체 커리큘럼(12주) 의존성 = requirements/week12.txt
-#
-# 주차별로 나눠서 설치하려면 requirements/README.md 를 참고하세요.
-#   예) 1주차만:  pip install -r requirements/week01.txt
--r requirements/week12.txt

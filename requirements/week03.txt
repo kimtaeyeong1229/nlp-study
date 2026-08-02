@@ -1,8 +1,0 @@
-# 3주차 — SMT & Phrase-based SMT + 평가(BLEU)
--r week02.txt
-
-sacrebleu           # BLEU 표준 구현. 논문 수치 재현에 사용
-nltk                # 교육용 BLEU 구현, n-gram 유틸
-
-# 참고: Moses, GIZA++ 같은 고전 SMT 툴킷은 pip으로 설치되지 않습니다.
-# 3주차는 개념 이해가 목적이므로 직접 빌드할 필요는 없습니다.

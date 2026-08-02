@@ -1,6 +1,0 @@
-# 10주차 — BART
--r week09.txt
-
-rouge-score         # 요약 태스크 평가. BART 논문 수치 재현용
-
-# BART 체크포인트는 transformers로 바로 불러옵니다 (facebook/bart-base).

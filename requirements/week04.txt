@@ -1,4 +1,0 @@
-# 4주차 — RNN Encoder–Decoder & Seq2Seq
--r week03.txt
-
-datasets            # 병렬 코퍼스 로딩 (WMT, IWSLT 등)

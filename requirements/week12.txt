@@ -1,6 +1,0 @@
-# 12주차 — T5 & mT5 + 전체 정리
--r week11.txt
-
-# 추가 패키지 없음.
-# T5/mT5는 SentencePiece(Unigram) 토크나이저를 쓰며, 1주차에 이미 설치했습니다.
-# 체크포인트: t5-small, google/mt5-small

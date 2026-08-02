@@ -1,6 +1,0 @@
-# 6주차 — GNMT
--r week05.txt
-
-# 추가 패키지 없음.
-# GNMT는 논문 구조 분석이 중심입니다. WordPiece 토크나이저는
-# 1주차에 설치한 tokenizers / transformers로 실습할 수 있습니다.

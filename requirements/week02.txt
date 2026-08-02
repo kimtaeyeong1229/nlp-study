@@ -1,6 +1,0 @@
-# 2주차 — 단어 임베딩 + RNN·LSTM
--r week01.txt
-
-torch               # RNN/LSTM 구현. 이후 모든 주차의 기반
-gensim              # Word2Vec / FastText 학습·시각화
-scikit-learn        # 임베딩 시각화(t-SNE, PCA), 간단한 분류 베이스라인
