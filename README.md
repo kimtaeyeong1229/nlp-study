@@ -28,8 +28,7 @@ CV(CNN·ResNet) 배경은 있으나 NLP는 처음인 청중을 대상으로,
 ```
 nlp-study/
 ├── notebooks/  # 주차별 실습 노트북
-├── notes/      # 주차별 개념 정리 문서
-└── data/       # 데이터셋 (git 추적 제외)
+└── notes/      # 주차별 개념 정리 문서
 ```
 
 ## 환경 설정
