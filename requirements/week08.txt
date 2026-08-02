@@ -1,0 +1,4 @@
+# 8주차 — Transformer (2) 구현·실습
+-r week07.txt
+
+tensorboard         # 학습 곡선, warmup 스케줄 확인

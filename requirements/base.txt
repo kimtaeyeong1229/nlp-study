@@ -1,0 +1,7 @@
+# 모든 주차 공통 — 데이터 처리와 노트북 환경
+numpy
+pandas
+matplotlib
+jupyterlab
+ipykernel
+tqdm

@@ -1,0 +1,5 @@
+# 9주차 — 사전학습 패러다임 + MASS
+-r week08.txt
+
+accelerate          # 사전학습 모델 로딩·파인튜닝 편의
+evaluate            # 태스크별 평가지표 (BLEU, ROUGE 등)

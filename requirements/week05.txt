@@ -1,0 +1,6 @@
+# 5주차 — Attention: Bahdanau & Luong
+-r week04.txt
+
+# 추가 패키지 없음.
+# 어텐션은 4주차 Seq2Seq 코드 위에 직접 구현하는 것이 학습 목적에 맞습니다.
+# 정렬(alignment) 히트맵은 base.txt의 matplotlib으로 그립니다.

@@ -1,0 +1,7 @@
+# 11주차 — 다국어 NMT + mBART
+-r week10.txt
+
+sacremoses          # mBART 토크나이저가 요구하는 전처리 의존성
+
+# mBART 체크포인트: facebook/mbart-large-50-many-to-many-mmt
+# 모델이 큽니다(2GB+). 디스크 여유를 미리 확보해두세요.

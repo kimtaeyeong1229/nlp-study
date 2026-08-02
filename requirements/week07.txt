@@ -1,0 +1,4 @@
+# 7주차 — Transformer (1) 구조
+-r week06.txt
+
+einops              # attention 텐서 reshape을 읽기 쉽게. multi-head 이해에 도움
