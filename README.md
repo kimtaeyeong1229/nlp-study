@@ -10,7 +10,7 @@ CV(CNN·ResNet) 배경은 있으나 NLP는 처음인 청중을 대상으로,
 
 | 주차 | 주제 | 핵심 키워드 | 노트 | 실습 |
 |------|------|-------------|------|------|
-| 1 | 텍스트 입력 파이프라인 | 토큰화, BPE, 특수 토큰, 패딩, 임베딩 룩업 | [📄](notes/01-input-pipeline.md) | [📓](notebooks/01_tokenization.ipynb) |
+| 1 | 텍스트 입력 파이프라인 | 토큰화, BPE, 특수 토큰, 패딩, 임베딩 룩업 | [📄](notes/01-input-pipeline.md) | [📓](notebooks/01_input_pipeline.ipynb) |
 | 2 | 단어 임베딩 + RNN·LSTM | Word2Vec, 시퀀스 모델링, gradient 소실 | |
 | 3 | SMT & Phrase-based SMT + 평가 | 통계 기반 번역, 정렬, BLEU | |
 | 4 | RNN Encoder–Decoder & Seq2Seq | 컨텍스트 벡터, teacher forcing | |
