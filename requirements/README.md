@@ -47,13 +47,19 @@ pip install -r requirements.txt
 
 ## 별도 설치가 필요한 것
 
-**Java (konlpy 실습용, 1주차 6.5 선택 실습)**
+**Java (konlpy 실습용, 1주차 6.5)** — pip으로는 설치되지 않습니다.
 
-konlpy는 내부적으로 Java 기반 형태소 분석기를 호출합니다.
+konlpy는 내부적으로 Java 기반 형태소 분석기(Okt 등)를 호출합니다.
 
 ```bash
-conda install -c conda-forge openjdk -y
+conda install -n nlp-study -c conda-forge openjdk -y
 ```
+
+설치하면 `conda activate nlp-study` 시 `JAVA_HOME`이 자동으로 설정되므로
+별도 환경변수 설정은 필요 없습니다. conda 환경 안에만 들어가므로 시스템 Java와 충돌하지 않습니다.
+
+> JDK 25 + JPype 조합에서 `WARNING: A restricted method in java.lang.System has been called`
+> 경고가 출력되지만 동작에는 문제가 없습니다.
 
 **고전 SMT 툴킷 (3주차)**
 
