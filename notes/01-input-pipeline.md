@@ -144,8 +144,3 @@ GPT-2가 `"Hello World!"`를 받아들이는 과정을 한 줄로 줄이면 이�
 
 그런데 그 표는 **처음에 전부 랜덤 숫자**입니다. 아무 의미도 없는 값에서 시작해 학습을 거치며 자리를 잡습니다. 그렇다면 이 숫자들은 어떻게 의미를 갖게 되는 걸까요. 다음 글에서 다루겠습니다.
 
----
-
-- Sennrich et al., *Neural Machine Translation of Rare Words with Subword Units* (2016)
-- Hugging Face NLP Course, Chapter 6 (Tokenizers)
-
