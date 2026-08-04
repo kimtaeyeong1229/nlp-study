@@ -4,13 +4,12 @@
 
 ## 1주차 — 텍스트 입력 파이프라인
 
-`"Hello World!"`라는 문자열이 GPT-2에 들어가 임베딩 벡터가 되기까지의 다섯 단계를 다룹니다.
+`"Hello World!"`라는 문자열이 GPT-2에 들어가 임베딩 벡터가 되기까지의 네 단계를 다룹니다.
 
-1. Tokenization
-2. Converting Tokens to Input IDs
-3. Special Tokens
-4. Padding and Attention Mask
-5. Embedding Lookup
+1. 토큰화(Tokenization)
+2. 번호 매기기(Encoding)
+3. 특수 토큰과 패딩(Special Tokens & Padding)
+4. 임베딩 룩업(Embedding Lookup)
 
 - 글 — [notes/01-input-pipeline.md](notes/01-input-pipeline.md)
 - 실습 — [notebooks/01_input_pipeline.ipynb](notebooks/01_input_pipeline.ipynb)
